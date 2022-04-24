@@ -1,2 +1,2 @@
 # LittleGreenGarden
-Hydroponic garden design and code
+Hydroponic garden design and code.
